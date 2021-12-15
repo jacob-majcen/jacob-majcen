@@ -1,6 +1,6 @@
 # Hi Fellow Devs :wave:
 
-<p align="center">
+<p align="left">
   <samp>
 I am Innovative optimized solution seeker Full Stack Developer with 8+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.
 <br />
@@ -74,4 +74,4 @@ Get in touch wit me!
 
 :globe_with_meridians: <a href="https://petar-majcen.web.app">Checkout my website</a>
 
-:memo: <a href="linkedin.com/in/petar-majcen/">Checkout my linkedin</a>
+:memo: <a href="https://linkedin.com/in/petar-majcen/">Checkout my linkedin</a>
